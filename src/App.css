@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.app {
+  position: relative;
+  text-align: center;
+}
+
+.app-header {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.loader {
+  position: absolute;
+  margin-top: 30px;
+  left: 45%;
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) {
+  .app {
+    padding: 20px;
+    width: auto;
+  }
+}
+
+.contracts-list {
+  margin-top: 20px;
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) {
+  .app {
+    padding: 50px;
+  }
+
+  .loader {
+    left: 48%;
+  }
+}
+
+@media only screen and (min-width : 1024px) {
+  .loader {
+    left: 49%;
+  }
+}

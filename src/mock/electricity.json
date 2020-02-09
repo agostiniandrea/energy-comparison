@@ -1,0 +1,28 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "image": "https://static.overstappen.nl/assets/providers/logos/17/logo_160.png",
+            "name": "Greenchoice",
+            "price": 800
+        },
+        {
+            "id": 2,
+            "image": "https://static.overstappen.nl/assets/providers/logos/33/logo_160.png",
+            "name": "United Consumers",
+            "price": 844
+        },
+        {
+            "id": 3,
+            "image": "https://static.overstappen.nl/assets/providers/logos/6/logo_160.jpg",
+            "name": "Delta Energie",
+            "price": 888
+        },
+        {
+            "id": 4,
+            "image": "https://static.overstappen.nl/assets/providers/logos/243/logo_160.png",
+            "name": "Engie",
+            "price": 810
+        }
+    ]
+}

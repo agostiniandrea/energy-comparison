@@ -1,0 +1,28 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "image": "https://static.overstappen.nl/assets/providers/logos/344/logo_160.png",
+            "name": "Green NL",
+            "price": 282
+        },
+        {
+            "id": 2,
+            "image": "https://static.overstappen.nl/assets/providers/logos/33/logo_160.png",
+            "name": "United Consumers",
+            "price": 290
+        },
+        {
+            "id": 3,
+            "image": "https://static.overstappen.nl/assets/providers/logos/235/logo_160.png",
+            "name": "Vandebron",
+            "price": 299
+        },
+        {
+            "id": 4,
+            "image": "https://static.overstappen.nl/assets/providers/logos/243/logo_160.png",
+            "name": "Engie",
+            "price": 220
+        }
+    ]
+}
